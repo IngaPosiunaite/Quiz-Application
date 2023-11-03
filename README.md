@@ -1,12 +1,12 @@
-<h4> Quiz Application
+<h3> Quiz Application
 
 <h5> The Quiz Application is a straightforward software tool. A quiz can contain an arbitrary number of questions, which can be added, replaced, or removed at any time. Each question can have a set number of answers, labeled with letters (e.g., (a), (b), etc.).
 
 <h5> The Quiz Application interactively allows users to:
 
-<h5> Create a new quiz and populate it with questions. Questions can be added, removed, or replaced based on their unique code. 
-<h5> Print the quiz. 
-<h5> Retrieve the quiz tag.
+<h5> • Create a new quiz and populate it with questions. Questions can be added, removed, or replaced based on their unique code. 
+<h5> • Print the quiz. 
+<h5> • Retrieve the quiz tag.
 
 
 
